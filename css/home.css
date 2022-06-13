@@ -1,3 +1,7 @@
+*{
+    border: none;
+}
+
 .page{
     color: goldenrod!important;
 }
