@@ -34,7 +34,7 @@ body {
 }
 
 .blog-intro-bg-img {
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../img/blog-bg-image.png);
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("/images/img/blog-bg-image.png");
     background-repeat: no-repeat;
     min-height: 500px;
     background-size: cover;
