@@ -35,19 +35,19 @@
 }
 
 .img-1.first{
-    background-image: linear-gradient(rgba(248, 91, 41, 0.9), rgba(255, 123, 83, 0.664)), url('/img/StepsRight.png');
+    background-image: linear-gradient(rgba(248, 91, 41, 0.9), rgba(255, 123, 83, 0.664)), url('/images/img/StepsRight.png');
     padding: 4rem;
     color: #fff;
 }
 
 .img-1.second{
-    background-image: linear-gradient(black, rgba(15, 15, 15, 0.884)), url('/img/unsplash2.png');
+    background-image: linear-gradient(black, rgba(15, 15, 15, 0.884)), url('/images/img/unsplash2.png');
     padding: 4rem;
     color: #fff;
 }
 
 .img-1.third{
-    background-image: linear-gradient(var(--accent-color), #661ce7bd), url('/img/unsplash2.png');
+    background-image: linear-gradient(var(--accent-color), #661ce7bd), url('/images/img/unsplash2.png');
     padding: 4rem;
     color: #fff;
 }
