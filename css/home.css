@@ -77,3 +77,6 @@
 #sec7{
     background: rgba(226, 230, 233, 1);
 }
+@media (max-width: 768px){
+    .sec7-item{width: 100%;}
+}
